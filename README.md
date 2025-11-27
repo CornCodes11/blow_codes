@@ -1,3 +1,1 @@
-# Anytime 
-# Anybody
-# Corn is ready
+# Anytime - Anybody Corn is ready
